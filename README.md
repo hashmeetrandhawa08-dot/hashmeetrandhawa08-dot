@@ -39,11 +39,10 @@ Become an AI Engineer and build impactful AI solutions.
 ## 💻 Tech Stack
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hashmeetrandhawa08-dot&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmeetrandhawa08-dot&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashmeetrandhawa08-dot&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmeetrandhawa08-dot&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=hashmeetrandhawa08-dot&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=hashmeetrandhawa08-dot&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=hashmeetrandhawa08-dot&theme=tokyonight&no-frame=true&margin-w=15)
 ![](https://komarev.com/ghpvc/?username=hashmeetrandhawa08-dot&color=blue)
 
 
