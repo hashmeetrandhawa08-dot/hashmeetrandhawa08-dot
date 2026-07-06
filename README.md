@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Hashmeet Singh
 
-<!--
-**hashmeetrandhawa08-dot/hashmeetrandhawa08-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI & Data Science Student
 
-Here are some ideas to get you started:
+🎓 B.Tech AI & DS @ MIT Aurangabad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Python
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Git & GitHub
+
+🚀 Current Project
+- 🌍 Project Vayu
+
+🎯 Goal
+Become an AI Engineer and build impactful AI solutions.
+
+## 🛠 Languages & Tools
+
+Python
+
+C++
+
+Git
+
+GitHub
+
+VS Code
+
+Jupyter Notebook
+
+## 📫 Contact
+
+7986610926
+
+LinkedIn: Coming Soon
