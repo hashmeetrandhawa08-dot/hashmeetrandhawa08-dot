@@ -21,17 +21,37 @@ Become an AI Engineer and build impactful AI solutions.
 
 ## 🛠 Languages & Tools
 
-Python
 
-C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Git
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-GitHub
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-VS Code
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Jupyter Notebook
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
+
+## 💻 Tech Stack
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=hashmeetrandhawa08-dot&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmeetrandhawa08-dot&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=hashmeetrandhawa08-dot&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=hashmeetrandhawa08-dot&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=hashmeetrandhawa08-dot&color=blue)
+
+
+
+
+
+
+
 
 ## 📫 Contact
 
