@@ -36,7 +36,7 @@ Become an AI Engineer and build impactful AI solutions.
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
 
-## 💻 Tech Stack
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -49,7 +49,12 @@ Become an AI Engineer and build impactful AI solutions.
 ![Trophy](https://github-profile-trophy.vercel.app/?username=hashmeetrandhawa08-dot&theme=tokyonight&no-frame=true&margin-w=15)
 ![](https://komarev.com/ghpvc/?username=hashmeetrandhawa08-dot&color=blue)
 
+- ## 👀 Profile Views
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hashmeetrandhawa08-dot
+  &label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 
 
