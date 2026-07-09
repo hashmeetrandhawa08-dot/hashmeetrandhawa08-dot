@@ -40,7 +40,7 @@ Become an AI Engineer and build impactful AI solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gawali-vaishali&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashmeetrandhawa08-dot&theme=github_dark" />
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashmeetrandhawa08-dot&show_icons=true&theme=tokyonight&hide_border=true)
